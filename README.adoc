@@ -1,0 +1,6 @@
+= LexCN.github.io
+LexCN
+:icons: font
+
+国际私法笔记。Asciidoc源码和HTML网页。
+
